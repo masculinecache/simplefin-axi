@@ -24,5 +24,7 @@ jobs:
       
       - name: Upgrade npm
         run: npm install -g npm@latest
-      
+
+      - run: npm ci
+
       - run: npm publish --access public
