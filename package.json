@@ -4,7 +4,7 @@
   "description": "Agent-ergonomic CLI for SimpleFIN financial data on Cloudflare D1",
   "type": "module",
   "bin": {
-    "simplefin-axi": "./dist/bin.js"
+    "simplefin-axi": "dist/bin.js"
   },
   "files": [
     "dist"
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/masculinecache/simplefin-axi"
+    "url": "git+https://github.com/masculinecache/simplefin-axi.git"
   },
   "homepage": "https://github.com/masculinecache/simplefin-axi"
 }

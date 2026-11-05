@@ -2,7 +2,7 @@ import { fetchAccounts, listAccounts, getAccount, listTransactions, getBalances,
 import { execute, executeBulk, queryRows, DB_NAME } from "./d1.js";
 import { toonTable, toonObject, toonHelp, toonError } from "./toon.js";
 
-const VERSION = "0.1.0";
+const VERSION = "0.1.3";
 const DESCRIPTION = "Agent-ergonomic CLI for SimpleFIN financial data on Cloudflare D1";
 
 function home(): string {
