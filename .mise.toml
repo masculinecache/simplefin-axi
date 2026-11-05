@@ -1,0 +1,3 @@
+[env]
+GH_REPO = "masculinecache/simplefin-axi"
+GH_CONFIG_DIR = "{{env.HOME}}/.config/gh-masculinecache"
