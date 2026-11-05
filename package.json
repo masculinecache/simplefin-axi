@@ -1,6 +1,6 @@
 {
   "name": "@masculinecache/simplefin-axi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Agent-ergonomic CLI for SimpleFIN financial data on Cloudflare D1",
   "type": "module",
   "bin": {
