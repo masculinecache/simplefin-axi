@@ -1,6 +1,6 @@
 {
   "name": "simplefin-axi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Agent-ergonomic CLI for SimpleFIN financial data on Cloudflare D1",
   "type": "module",
   "bin": {
