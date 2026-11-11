@@ -1,3 +1,8 @@
+---
+name: simplefin-axi
+description: "Agent-ergonomic CLI for SimpleFIN financial data on Cloudflare D1. Load when the user asks about bank accounts, balances, transactions, financial data, SimpleFIN, or any task that involves reading or syncing their financial information. Also load when the user says 'simplefin', 'bank balance', 'transactions', 'accounts'."
+---
+
 # simplefin-axi
 
 Agent-ergonomic CLI for SimpleFIN financial data stored in Cloudflare D1.
